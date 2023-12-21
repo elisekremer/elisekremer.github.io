@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=kTuSOKMAAAAJ"
-  email            :
+  email            : "elise.kremer@cmcc.it"
   researchgate     :
   uri              :
   bitbucket        :
@@ -178,8 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
-
+    
 # Defaults
 defaults:
   # _pages

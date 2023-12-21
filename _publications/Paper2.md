@@ -1,0 +1,9 @@
+---
+title: "Contingent convertible bonds and macroeconomic stability in an agent-based stock-flow consistent model"
+collection: publications
+permalink: /publication/2022-11-15-Contingent-convertible-bonds-and-macroeconomic-stability-in-a-stock-flow-consistent-model
+excerpt: 'This paper evaluates the impact of contingent convertible bond activations in an modified version of the JMAB agent-based macroeconomic model (Caiani et al., 2016), by extending it with new financial assets, investor learning behaviors, and a variable opinion component. These additions reveal non-linear effects of activations on macroeconomic aggregates, and show potential for financial contagion.'
+venue: 'Work in progress'
+---
+
+In 2008, excessive risk-taking by banks resulted in significant losses, leading to bank bankruptcies and taxpayer-funded bailouts. To prevent this from happening again, regulators now require banks to hold larger and higher quality capital and utilize bail-in mechanisms. As a result, Contingent Convertible Bonds (CoCos) have emerged as a new asset class, converting into shares or being written off when banks' asset-liability ratios exceed a threshold. This paper assesses CoCos' effectiveness in stabilizing the banking sector and their impact on the economy using an agent-based macroeconomic model. Monte Carlo simulations reveal that CoCos, if activated in a crisis, partially replace costly bailouts, preventing bank failures and enhancing capital adequacy ratios. Stabilization benefits are positive for the economy up to a certain volume, beyond which negative effects on consumption and GDP emerge. CoCos may also destabilize the financial sphere, affecting market confidence, creating feedback loops, and fostering financial contagion between banks. Two recommendations for prudential regulation include careful consideration of CoCos in the Basel framework and ensuring clarity in their operation for investors to mitigate market disruptions.

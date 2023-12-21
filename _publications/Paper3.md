@@ -1,0 +1,9 @@
+---
+title: "Navigating energy price shocks - Mitigation strategies in an agent-based integrated assessment model"
+collection: publications
+permalink: /publication/2023-11-15-Energy-price-shocks-mitigation-strategies
+excerpt: "This paper relies on an agent-based model to simulate a temporary shock on fossil fuel prices in the European Union. It assesses its impact on functional income distribution, inflation persistence, and macroeconomic aggregates, considering: 1. firms' capability to sustain profit margins, 2. households' capacity to demand higher wages, and 3. diverse mitigation transfers established by the government."
+venue: 'Work in progress'
+---
+
+Using an empirically calibrated agent-based integrated assessment model based on EU27 data, we investigate the macroeconomic effects of an energy price increase in Europe. Our primary focus is on the relationship between firms' ability to protect their profit margins by passing on cost increases to their selling prices, and how this influences revenue distribution within the economy. In scenarios where firms successfully maintain their profit margins, we observe a substantial initial spike in inflation, accompanied by a temporary decrease in the wage share. Importantly, our findings indicate that these effects can become permanent if firms take advantage of post-shock price declines to increase their margins. Our research highlights the critical role of targeted public policies in mitigating the distributional impacts of energy price shocks and curbing economic instability. We illustrate how well-designed tax and transfer mechanisms can effectively rebalance revenue distribution post-shock, thereby promoting both economic resilience and social equity.

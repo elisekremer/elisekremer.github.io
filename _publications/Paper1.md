@@ -1,5 +1,5 @@
 ---
-title: "Contingent convertible bonds and macroeconomic stability in a stock-flow consistent model"
+title: Contingent convertible bonds and macroeconomic stability in a stock-flow consistent model
 collection: publications
 permalink: /publication/2022-05-09-Contingent-convertible-bonds-and-macroeconomic-stability-in-a-stock-flow-consistent-model
 excerpt: 'This paper develops a kaleckian economy in a stock-flow consistent model to assess the effect of contingent convertible bonds in terms of stability through numerical simulations.'
