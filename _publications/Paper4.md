@@ -1,0 +1,9 @@
+---
+title: "Macro-financial transition risks during deep mitigation pathways: evidence from a hybrid agent-based integrated assessment model"
+collection: publications
+permalink: /publication/2024-07-30-Macro-financial-transition-risks-mitigation
+excerpt: "This paper integrates a process-based integrated assessment model into a macroeconomic agent-based model to shed light on the macroeconomic and financial response to deep mitigation trajectories controlled by carbon pricing. Our results reveal that rapid transitions induced by high-growing carbon prices significantly impact unemployment, inflation, and income distribution. Stabilization policies can mitigate economic fluctuations, though not completely in 1.5°C scenarios. Our paper emphasizes the need for coordinating climate and macroeconomic policy during ambitious decarbonization."
+venue: 'Work in progress.'
+---
+
+The macro-financial viability of ambitious mitigation pathways - such as those proposed in IPCC scenarios - is still unclear. This paper integrates a process-based integrated assessment model into a macroeconomic agent-based model to shed light on the macroeconomic and financial response to deep mitigation trajectories controlled by carbon pricing. The hybrid model translates energy systems transformations into macro-financial outcomes at business cycle frequency. Our results reveal that rapid transitions induced by high-growing carbon prices significantly impact unemployment, inflation, and income distribution. Stabilization policies can mitigate economic fluctuations, though not completely in 1.5°C scenarios. Our paper emphasizes the need for coordinating climate and macroeconomic policy during ambitious decarbonization. Additionally, it showcases that model integration is pivotal to deliver a better understanding of the economic implications of low-carbon futures.
