@@ -1,5 +1,5 @@
 ---
-title: "Energy price shocks in the European Union:macroeconomic impacts, distributional effects and policy responses"
+title: "Energy price shocks in the European Union: macroeconomic impacts, distributional effects and policy responses"
 collection: publications
 permalink: /publication/2023-11-15-Energy-price-shocks-mitigation-strategies
 excerpt: "This paper relies on an agent-based integrated assessement model to simulate a temporary shock on fossil fuel prices in the European Union. It assesses its impact on functional income distribution, inflation persistence, and macroeconomic aggregates, considering: 1. firms' capability to sustain profit margins, 2. households' wage claims, and 3. diverse mitigation transfers and price control policies established by the government."
